@@ -1,5 +1,5 @@
 <div style="text-align: center">
-<a href="README.md">En français 🇫🇷</a>
+<a href="README.md">In English</a>
 </div>
 
 Il y a tous les Notebooks que j'ai fait durant mes années d'études (Licence, École d'ingénieur, Master)
