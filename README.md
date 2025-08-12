@@ -2,6 +2,8 @@
 <a href="README-fr.md">En français 🇫🇷</a>
 </div>
 
+# All my Jupyter Notebook (mainly Python)
+
 here are almost all the notebooks I made and kept during my studies, 
 I've sorted them by degree,  
 
